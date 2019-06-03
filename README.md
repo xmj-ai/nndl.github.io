@@ -1,2 +1,4 @@
 # nndl.github.io
-邱锡鹏深度学习
+Neural Network and Deep Learning Course
+
+ https://nndl.github.io
